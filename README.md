@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# CryptoCares
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A DeFi + NFT protocol that allows domain experts to incentivize donation to a cause from others in exchange for a few hours of their time.
+CryptoCares is a social good decentralized application that connects people who wants to provide charitable services to another party. It can be defined as a trade of time of a person for a donation to a good cause. People like social influencers and domain experts can choose to use their reach and expertise for the public good. Influencers or Domain Experts (SERVICE PROVIDERS) may create SERVICES to incentivize donations. Donators who donate to these SERVICES receive a Proof Of Donation NFT to redeem their service. Using Social rep and public goods Crypto Cares aims to transform how donations are done. Social tokens for a cause. CryptoCares.
 
-## Available Scripts
+## Video Overview
+https://youtu.be/rW3hREKgHHI
 
-In the project directory, you can run:
+## CryptoCares
+https://www.canva.com/design/DAEfNk7WQek/P2AenUmx4lYFgwgitwhuCA/edit?utm_content=DAEfNk7WQek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-### `npm start`
+## Deployed Contracts Addresses
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+CryptoCares:
+https://mumbai.polygonscan.com/address/0x7E0cDC2A2C793F15BC15A9df835A14c50FfFD831#code
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+CryptoCaresNFT:
+https://mumbai.polygonscan.com/address/0x3478c9f1044A07B85D42C750C498502452Fe0432#code
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# To run:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Clone
+https://github.com/robin-rrt/ETHIndia22-cryptocares.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Install Dependancies
+```
+run 'npm install'
+```
+## Run Project
+```
+run 'npm start' 
+```
